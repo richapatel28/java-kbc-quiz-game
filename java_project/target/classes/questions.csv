@@ -1,0 +1,17 @@
+# level,prize,question,A,B,C,D,answer
+1,1000,What is the capital of India?,Mumbai,Chennai,New Delhi,Kolkata,C
+2,2000,Which planet is known as the Red Planet?,Venus,Mars,Jupiter,Saturn,B
+3,3000,Who wrote 'Ramayana'?,Valmiki,Tulsidas,Vyasa,Kalidasa,A
+4,5000,Which is the smallest prime number?,0,1,2,3,C
+5,10000,What is the chemical symbol for water?,WO,H2O,HO2,HW2,B
+6,20000,What gas do plants absorb?,Oxygen,Carbon Dioxide,Nitrogen,Helium,B
+7,40000,The currency of Japan is?,Yuan,Dollar,Won,Yen,D
+8,80000,Who painted the Mona Lisa?,Picasso,Van Gogh,Da Vinci,Rembrandt,C
+9,160000,Which is the longest river?,Amazon,Nile,Ganga,Yangtze,B
+10,320000,Which device measures earthquakes?,Thermometer,Barometer,Seismograph,Hygrometer,C
+11,640000,Which metal is liquid at room temperature?,Mercury,Iron,Aluminium,Sodium,A
+12,1250000,Which organ pumps blood?,Liver,Lungs,Heart,Kidney,C
+13,2500000,Who discovered gravity?,Newton,Einstein,Galileo,Curie,A
+14,5000000,What is the largest mammal?,Elephant,Blue Whale,Giraffe,Hippopotamus,B
+15,10000000,Which is the national flower of India?,Lotus,Rose,Marigold,Jasmine,A
+

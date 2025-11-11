@@ -1,0 +1,69 @@
+/* KBC Theme - simple, readable */
+.root {
+    -fx-font-family: "Segoe UI", "Arial", sans-serif;
+    -fx-background-color: linear-gradient(to bottom right, #0b1030, #020414);
+    -fx-text-fill: #e8e8ff;
+}
+
+.label {
+    -fx-text-fill: #f3f6ff;
+}
+
+.title-logo {
+    -fx-font-size: 36px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #ffd54f;
+    -fx-effect: dropshadow(gaussian, rgba(255,213,79,0.4), 12, 0.2, 0, 0);
+}
+
+.section-title {
+    -fx-font-size: 24px;
+    -fx-text-fill: #bbdefb;
+}
+
+.splash {
+    -fx-background-radius: 8;
+}
+
+.button {
+    -fx-background-color: #3949ab;
+    -fx-text-fill: white;
+    -fx-background-radius: 6;
+    -fx-padding: 8 16 8 16;
+}
+.button:hover {
+    -fx-background-color: #5c6bc0;
+}
+.button:pressed {
+    -fx-background-color: #283593;
+}
+
+.radio-button, .check-box {
+    -fx-text-fill: #e3f2fd;
+}
+
+.error-text {
+    -fx-text-fill: #ff8a80;
+}
+
+.muted {
+    -fx-text-fill: #b0bec5;
+}
+
+.tab-pane .tab-header-area .tab-header-background {
+    -fx-background-color: transparent;
+}
+
+/* Prize Ladder */
+.ladder { -fx-background-color: rgba(255,255,255,0.05); -fx-padding: 8; -fx-background-radius: 6; }
+.ladder-row { -fx-text-fill: #bbdefb; -fx-padding: 2 8 2 8; }
+.ladder-row.active { -fx-background-color: #3949ab; -fx-background-radius: 4; -fx-text-fill: #fff; }
+
+/* Timer */
+.timer { -fx-text-fill: #ffd54f; -fx-font-weight: bold; }
+
+/* Leaderboard */
+.table-view { -fx-background-color: transparent; }
+.column-header-background { -fx-background-color: #1a237e; }
+
+
